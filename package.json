@@ -14,7 +14,7 @@
     "react-dom": "^16.11.0",
     "react-redux": "^7.1.1",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "redux": "^4.0.4"
   },
   "scripts": {
@@ -41,7 +41,7 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "devDependencies": {
-    "json-server": "^0.15.1"
+    "json-server": "^1.0.0-beta.3"
   },
   "keywords": [],
   "author": "",
